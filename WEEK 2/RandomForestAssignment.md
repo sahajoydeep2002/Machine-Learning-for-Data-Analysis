@@ -1,6 +1,6 @@
-#Identify risky bank loans using random forest #
+# Identify risky bank loans using random forest
 
-In this assignment, we use a finanial dataset which contains information on loans obtained from a credit agency in Germany to perform the random forest in order to identify risky bank loans. There are total 1000 observations and 17 features in this dataset. The **target** is "default" which is a binary variable: 'yes' and 'no', meaning whether the loan went into default. 
+In this assignment, I useD a finanial dataset which contains information on loans obtained from a credit agency in Germany to perform the random forest in order to identify risky bank loans. There are total 1000 observations and 17 features in this dataset. The **target** is "default" which is a binary variable: 'yes' and 'no', meaning whether the loan went into default. 
 
 The **explanatory variables** consist of the following 16 components:
 - checking_balance (categorical)  : "< 0 DM",     "> 200 DM",   "1 - 200 DM", "unknown"
