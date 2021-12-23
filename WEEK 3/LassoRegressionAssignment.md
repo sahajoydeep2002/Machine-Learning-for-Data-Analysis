@@ -1,6 +1,6 @@
-#Predict a baseball player’s salary#
+# Predict a baseball player’s salary
 
-In this assignment, we want to predict a baseball player's salary using linear regression, especially penalized linear regression such as Lasso regression, since there are 19 explanatory variables in the **Hitters** dataset which contains 322 observations. The **explanatory variables** in this dataset are listed as follows. 
+In this assignment, I wanted to predict a baseball player's salary using linear regression, especially penalized linear regression such as Lasso regression, since there are 19 explanatory variables in the **Hitters** dataset which contains 322 observations. The **explanatory variables** in this dataset are listed as follows. 
 - AtBat: Number of times at bat in 1986
 - Hits : Number of hits in 1986
 - HmRun: Number of home runs in 1986
