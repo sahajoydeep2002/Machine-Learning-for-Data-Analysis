@@ -1,6 +1,5 @@
 # Identify risky bank loans using decision tree #
 
-This post intends to finish the first assignment of course “Machine Learning for Data Analysis” on coursera. We are assigned to perform a decision tree analysis to test nonlinear relationships among a series of explanatory variables and a binary, categorical response variable.
 
 In this assignment, I used finicial data which contains information on loans obtained from a credit agency in Germany. This data can be downloaded from UCI Machine Learning Data Repository on https://archive.ics.uci.edu/ml. There are total 1000 observations and 17 features in this data. The target is **default** which is a binary variable: 'yes' and 'no', meaning whether the loan went into default. The explanatory variables consist of the following 16 components: &quot;checking_balance&quot;, &quot;months_loan_duration&quot;, &quot;credit_history&quot;,       &quot;purpose&quot;, &quot;amount&quot;, &quot;savings_balance&quot;, &quot;employment_duration&quot;, &quot;percent_of_income&quot;, &quot;years_at_residence&quot;, &quot;age&quot;, &quot;other_credit&quot;, &quot;housing&quot;, &quot;existing_loans_count&quot;, &quot;job&quot;, &quot;dependents&quot;,  &quot;phone&quot;. The details of each features can be seen in Section 3 `str(credit)`.
 
